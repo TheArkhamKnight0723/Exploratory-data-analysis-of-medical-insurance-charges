@@ -43,8 +43,8 @@ The number of children has minimal correlation with insurance expenses.
 
 Visualization Techniques Used:
 
-Scatter plots for relationships between variables
-Bar charts for categorical comparisons
+Scatter plots for relationships between variables,
+Bar charts for categorical comparisons,
 Correlation heatmap to identify statistical relationships
 
 Conclusion:
