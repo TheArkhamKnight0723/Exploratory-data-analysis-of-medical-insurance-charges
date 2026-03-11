@@ -53,7 +53,7 @@ The analysis demonstrates that lifestyle factors, particularly smoking habits, s
 
 Future Improvements:
 
-Build a predictive machine learning model to estimate insurance charges
-Apply feature engineering techniques
+Build a predictive machine learning model to estimate insurance charges,
+Apply feature engineering techniques,
 Use regression models to improve prediction accuracy
 
