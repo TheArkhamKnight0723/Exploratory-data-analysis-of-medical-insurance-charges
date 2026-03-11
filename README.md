@@ -7,6 +7,7 @@ Tools Used:
 - Pandas
 - Matplotlib
 - Seaborn
+- Plotly
 
 Key Insights:
 - Smoking has the strongest correlation with medical charges.
