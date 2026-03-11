@@ -9,20 +9,24 @@ The objective of this analysis is to identify patterns, correlations, and key va
 Dataset Features
 
 The dataset includes the following attributes:
-Age – Age of the primary beneficiary
-Sex– Gender of the beneficiary
-BMI– Body Mass Index, which indicates body fat based on height and weight
-Children– Number of dependents covered by the insurance
-Smoker– Whether the beneficiary is a smoker or not
-Region– Residential region in the United States
+Age – Age of the primary beneficiary,
+Sex– Gender of the beneficiary,
+BMI– Body Mass Index, which indicates body fat based on height and weight,
+Children– Number of dependents covered by the insurance,
+Smoker– Whether the beneficiary is a smoker or not,
+Region– Residential region in the United States,
 Charges– Individual medical insurance cost billed by the insurance company
 
 Tools and Libraries Used:
 
 Python
+
 Pandas for data manipulation
+
 Matplotlib for visualization
+
 Seaborn for statistical plots
+
 Plotly for statistical plots
 
 Exploratory Analysis Performed:
